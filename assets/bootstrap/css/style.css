@@ -1,0 +1,21 @@
+body{
+    background: #182936 ;
+
+}
+.reg_login{
+    width: 70%;
+    display: flex;
+    margin: 150px auto;
+
+}
+.form_right{
+    width: 35%;
+    background-color: #fff;
+    padding: 5px;
+
+}
+.form_left{
+    width: 35%;
+    padding: 5px;
+    background-color: #b8ca99;
+}
